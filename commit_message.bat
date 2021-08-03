@@ -1,0 +1,1 @@
+START "" TortoiseGitProc.exe /command:commit /path:"E:\git\edit19\" /logmsg:"test log message"
