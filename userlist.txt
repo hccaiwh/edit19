@@ -1,4 +1,4 @@
-﻿成功链接服务器。Succeed to connect the server.-||
+﻿成功链接服务器。失败就换节点or观察机器码是否改变！-||
 ||-{1XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX}{2021-11-21}-||
 ||-{743CAE8FB53E980454A19A5CDD1108FB}{2025-02-22}-||
 ||-{BAB476D1694D1AC6D170663712130F2E}{2022-10-03}-||
