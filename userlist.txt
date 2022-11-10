@@ -1,4 +1,5 @@
-﻿小提示:备份好机器码,若验证失败则更换节点...........-||
+﻿有更新v19_24_6,优化了后台多开版本。
+小提示:备份好机器码,若验证失败则更换节点...........-||
 ||XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX||
 ||-{XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX1X}{2011-11-21}-||
 ||-{XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2X}{2011-11-21}-||
