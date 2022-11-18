@@ -1,4 +1,4 @@
-﻿左下角可以更换验证的节点~！可以更换节点~！！！！！！！！！！
+﻿目前只有1和3节点好用，望周知！
 小提示:备份好机器码,若验证失败则更换节点...........-||
 ||XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX||
 ||-{XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX1X}{2011-11-21}-||
